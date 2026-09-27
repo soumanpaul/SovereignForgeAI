@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <a href="demo/Untitled%20design.mp4"><strong>Watch the product demo video</strong></a>
+</p>
+
+<p align="center">
   <strong>Smart India Hackathon 2026 · SIH26117 · Team BOMBE · Team ID 144010</strong>
 </p>
 
