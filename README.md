@@ -13,9 +13,9 @@
 
 https://github.com/user-attachments/assets/3bec9777-c21a-4ef7-8369-f6ac1561fab9
 
-<p align="center">
+<!-- <p align="center">
   <strong>Smart India Hackathon 2026 · SIH26117 · Team BOMBE · Team ID 144010</strong>
-</p>
+</p> -->
 
 <p align="center">
   <a href="#recorded-demo-results">Demo evidence</a> ·
